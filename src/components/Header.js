@@ -13,7 +13,7 @@ const Header = props => {
 };
 
 Header.defaultProps = {
-  title: "The Dream"
+  title: "The Dream 11"
 };
 
 /* class Header extends React.Component {
